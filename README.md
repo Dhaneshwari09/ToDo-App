@@ -17,7 +17,7 @@ This is a simple and efficient To-Do List application built using Java. The app 
 
 ## How to Use
 
-1. **Add a Task:** Click on the 'Add Task' button and fill in the details (title, description, completion date, and priority).
+1. **Add a Task:** Click on the 'Add Task' button and fill in the details (title, description, completion date, and priority's).
 2. **Edit a Task:** Tap on an existing task to open it, modify the details, and save changes.
 3. **Manage Priorities:** Set High, Medium, or Low priority for each task.
 
